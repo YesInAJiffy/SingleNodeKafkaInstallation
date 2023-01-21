@@ -1,3 +1,7 @@
+For details, please refer the below video
+https://www.youtube.com/watch?v=7qurUlZUayA
+
+
 COMPOSE THE DOCKER
 docker-compose up -d
 
